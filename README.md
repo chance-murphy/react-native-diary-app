@@ -3,7 +3,7 @@
 This application allows you to create a list of things to do and assign each item a label such as work, school, or personal. You can also edit the labels in the application to be more fitting for your list items. 
 
 In order to run this app, you will need to create a firebase cloud firestore data base and copy the firebaseConfig information from the 
-database your create and place it in the Main.js file at line 5, replacing what is currently there. Your firebaseConfig should look
+database your create and place it in the Main.js file at line 8, replacing what is currently there. Your firebaseConfig should look
 something like the code below. 
 
 ``` 
